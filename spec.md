@@ -10,7 +10,7 @@ We also explore the technical design that allows sending and delivering messages
 
 Public blockchains has popularized the use of self-sovereign identities, this is an improvement over centralized systems which lacks interoperability, privacy and security. Today the most popular applications making use of this is decentralized finance, with advancement in modern blockchain with speed and cost we could see growth in the broader web3 applications.
 
-The shift from emails to crypto identities in web3 applications have made it hard for web3 applications to communicate with their users in a decentralized way. A PubSub between protocols and users would allow communication of important alerts like liquidations, DEX trades, governance, marketing etc.
+The shift from emails (address or ids) to crypto identities in web3 applications have made it hard for web3 applications to communicate with their users in a decentralized way. A PubSub between protocols and users would allow communication of important alerts like liquidations, DEX trades, governance, marketing etc.
 
 We expect the protocol to be used in the same way emails are used today, for async communication, your public keys become the first point of contact for users and services in web3 ecosystem.
 
