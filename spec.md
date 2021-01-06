@@ -100,7 +100,7 @@ TBD
 
 At this stage we are focusing on building the core protocol, GUI and clients for 1-1 messages. As the Solana ecosystem grows our goal is to become a communication infrastructure for all web3 applications with integrations like PubSub, public chat rooms.
 
-With our first product release we hope to maximize the chat interactions and the push notifications the push notificatiions enabled.
+With our first product release we hope to maximize the chat interactions and the push notifications enabled.
 
 Current status:
 
